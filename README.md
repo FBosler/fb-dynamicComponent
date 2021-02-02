@@ -1,10 +1,10 @@
 ## Getting started:
 
-`
+```
 yarn install
 yarn dev
 NODE_ENV=production yarn build  
-`
+```
 
 ## What you'll see
 
